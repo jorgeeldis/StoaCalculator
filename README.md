@@ -1,4 +1,4 @@
-# Stoa Calculator
+ # Stoa Calculator 🖩
 
 > Stoa Calculator is a powerful calculator that have everything you need to do any kind of calculations!
 
@@ -11,7 +11,12 @@ This calculator can do from basic aritmethic to advanced calculus, we will be re
 updates and adding more features, our goal is to make this calculator the most powerful calculator
 ever to exist.
 
-![](https://raw.githubusercontent.com/jorgeeldis/StoaCalculator/main/header.png)
+![](https://raw.githubusercontent.com/jorgeeldis/StoaCalculator/main/stoaheader.png)
+
+## Requirements
+
+*   Python Version: **3.8.x**
+*   Operation system: **Windows 10**
 
 ## Installation
 
