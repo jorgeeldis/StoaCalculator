@@ -2,7 +2,7 @@
 
 > Stoa Calculator is a powerful calculator that have everything you need to do any kind of calculations!
 
-[![Generic badge](https://img.shields.io/badge/Version-1.0.9-<COLOR>.svg)](https://pypi.org/project/StoaCalculator/)
+[![Generic badge](https://img.shields.io/badge/Version-1.1.0-<COLOR>.svg)](https://pypi.org/project/StoaCalculator/)
 [![Windows](https://img.shields.io/badge/OS-Windows-brightgreen.svg)](https://img.shields.io/badge/OS-Windows-brightgreen.svg)
 [![Status](https://img.shields.io/badge/Status-Stable-brightgreen.svg)](https://img.shields.io/badge/Status-Stable-brightgreen.svg)
 [![Downloads](https://pepy.tech/badge/stoacalculator)](https://pepy.tech/project/stoacalculator)
